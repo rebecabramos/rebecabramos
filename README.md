@@ -1,6 +1,6 @@
-## Hello World! Eu sou a Rebeca Raab!! 👩‍💻
+# Hello World! Eu sou a Rebeca Raab!! 👩‍💻
 
-*[Ela/Dela]*
+>*Não foi eu que te ordenei, sê firme, sê corajoso. Não te atemorizes, não tenhas medo, porque o Senhor estará contigo em qualquer parte por onde fores. (Js 1, 9)*
 
 - Estou cursando Engenharia da Computação na UFPB, contribuindo no Laboratório de Tecnologias para Educação Virtual e Estatística; 
 - Todo dia aprendo algo novo;
